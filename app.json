@@ -1,0 +1,67 @@
+{
+  "expo": {
+    "name": "Smart Mom",
+    "slug": "momai-minimal",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/smart-mom.png",
+    "scheme": "momai",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/smart-mom.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fefbf0"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.meetmindai.minimal",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "MeetMind-AI needs microphone access to record meeting audio.",
+        "NSDocumentPickerUsageDescription": "MeetMind-AI needs access to files to upload audio recordings.",
+        "UIBackgroundModes": ["audio"]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/smart-mom.png",
+        "backgroundColor": "#fefbf0"
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "package": "com.meetmindai.minimal"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Allow MeetMind-AI to access your microphone to record meeting audio."
+        }
+      ],
+      "expo-secure-store",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/smart-mom.png"
+        }
+      ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0221c0f8-c280-4d1a-9774-d00f63112b11"
+      }
+    },
+    "owner": "jitamint"
+  }
+}
