@@ -17,6 +17,13 @@ The offline-first **mobile recorder** for Smart MoM — capture meetings on the 
 [![FFmpeg](https://img.shields.io/badge/audio-ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)](https://ffmpeg.org)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
+[![Frontend](https://img.shields.io/badge/🌐%20Frontend%20Link-Click%20Here-0078D4?style=flat-square)](https://beside-hiking-billion-count.trycloudflare.com)
+[![Backend API](https://img.shields.io/badge/⚙️%20Backend%20Link-Click%20Here-009688?style=flat-square)](https://instant-jenny-occupational-nutten.trycloudflare.com)
+[![Swagger Docs](https://img.shields.io/badge/📖%20Swagger%20UI-/docs-85EA2D?style=flat-square)](https://instant-jenny-occupational-nutten.trycloudflare.com/docs)
+[![ReDoc](https://img.shields.io/badge/📄%20ReDoc-/redoc-8A2BE2?style=flat-square)](https://instant-jenny-occupational-nutten.trycloudflare.com/redoc)
+[![Mobile App](https://img.shields.io/badge/📱%20Mobile%20App-Download%20APK-34A853?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1l-tRbB9faUegjjlWR9hwVsLwf2iIZ1Jp/view?usp=drive_link)
+
+
 > This repo is the **mobile client**. It is designed to work with the Smart MoM backend (FastAPI + MongoDB + Redis + Qdrant + S3) described in the main Smart MoM project.
 
 [Architecture](#architecture-overview) | [Features](#features) | [Technology Stack](#technology-stack) | [Project Structure](#project-structure) | [Setup & Running](#setup--running) | [Recording Flow](#recording-flow) | [Backend Integration](#backend-integration) | [Known Limitations](#known-limitations)
@@ -385,7 +392,9 @@ In UI:
 
 ---
 
-## License
+### Author
 
-This project is licensed under the **MIT License**. See `LICENSE` for details.
+Smart MoM is built and maintained as an AI meeting intelligence platform by INT. For questions, issues, or contributions, please open a GitHub issue or pull request.
 
+[![Frontend](https://img.shields.io/badge/🌐%20Frontend%20Link-Click%20Here-0078D4?style=flat)](https://beside-hiking-billion-count.trycloudflare.com)
+[![Mobile App](https://img.shields.io/badge/📱%20Mobile%20App-Download%20APK-34A853?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1l-tRbB9faUegjjlWR9hwVsLwf2iIZ1Jp/view?usp=drive_link)
