@@ -394,7 +394,7 @@ In UI:
 
 ### Author
 
-Smart MoM is built and maintained as an AI meeting intelligence platform by INT. For questions, issues, or contributions, please open a GitHub issue or pull request.
+Smart MoM Mobile is built and maintained as an AI meeting intelligence platform by INT. For questions, issues, or contributions, please open a GitHub issue or pull request.
 
 [![Frontend](https://img.shields.io/badge/🌐%20Frontend%20Link-Click%20Here-0078D4?style=flat)](https://beside-hiking-billion-count.trycloudflare.com)
 [![Mobile App](https://img.shields.io/badge/📱%20Mobile%20App-Download%20APK-34A853?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1l-tRbB9faUegjjlWR9hwVsLwf2iIZ1Jp/view?usp=drive_link)
